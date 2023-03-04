@@ -1,0 +1,8 @@
+<?php
+
+$rota ['index'] = 'index';
+
+
+
+
+?>
